@@ -1,0 +1,4 @@
+.vscode
+project/build
+project/node_modules
+project/db.sqlite3
